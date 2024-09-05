@@ -5,10 +5,7 @@ or her salary and also if he or she is not getting any raise.
 
 It prompts the user to select option which suits him or her best, then it calculates 
 everything.
-
 '''
-
-
 def no_increase():
 
   annual_salary = float(input("\nEnter your annual salary: "))
